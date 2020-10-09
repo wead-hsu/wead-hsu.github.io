@@ -1,0 +1,3 @@
+brew install ruby
+gem install bundler jekyll
+bundle exec jekyll serve --livereload
