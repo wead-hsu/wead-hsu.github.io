@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Software Engineering, South China University of Technology, 2010-2014
-* Ph.D in Machine Intelligence, Peking University, 2014-2019
+* Ph.D. in Machine Intelligence, Peking University, 2014-2019
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Work experience
 * Summer 2016: Research Intern
   * Deeply Curious
 
-* Fall 2015: Research Assistant
+* Fall 2015: Teach Assistant
   * Peking University
   
 
