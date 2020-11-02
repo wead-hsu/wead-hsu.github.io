@@ -1,6 +1,6 @@
 ---
 title: "My clothing is on you."
-excerpt: "<br/><img src='/images/my0.jpg'>"
+excerpt: "<br/><img src='/images/my4.jpg'>"
 collection: portfolio
 ---
 
