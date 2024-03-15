@@ -37,7 +37,7 @@ Kunlong Chen, **Weidi Xu**, Xingyi Cheng, Zou Xiaochuan, Yuyu Zhang, Le Song†,
 
 [ACL 2020] [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://arxiv.org/pdf/2004.14166.pdf).
 
-**Weidi Xu**, Xingyi Cheng, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu, Yuan Qi. *Co-author.
+**Weidi Xu**, Xingyi Cheng, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu, Yuan Qi.
 
 [CVPR 2020] [Data-Efficient Semi-Supervised Learning by Reliable Edge Mining](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Data-Efficient_Semi-Supervised_Learning_by_Reliable_Edge_Mining_CVPR_2020_paper.pdf).
 
