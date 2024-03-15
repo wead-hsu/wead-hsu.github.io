@@ -1,5 +1,7 @@
-# Please start here
+I am a researcher with over 10 years of well-balanced experience in academia and industry. I am now with [Inf](https://www.infly.cn/), a startup company working on large language model solutions for industry applications.
 
-Welcome, and thanks for choosing our product.
+I received my Ph.D. from Peking University, under the supervision of Prof. Ying Tan.
 
-If you want to dive right in, try our [quick start tutorial](./). 
+My current research mainly focuses on logical reasoning, especially neuro-symbolic methods. Previously, I mainly worked on learning latent variable models for NLP problems.
+
+We have some research intern positions available in Inf. If you are interested in LLM and logical reasoning, please contact me: wdxu@inftech.ai.
