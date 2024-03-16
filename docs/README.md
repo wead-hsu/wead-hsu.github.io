@@ -14,6 +14,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 - [Introducing Neuro-symbolic Methods](posts/nesy.md)
 - [Efficient Softmax](posts/softmax.md)
+- [Backpropogate through Discrete Variables](posts/bpdiscrete.md)
 
 # Publications
 
