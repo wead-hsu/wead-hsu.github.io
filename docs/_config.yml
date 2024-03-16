@@ -3,3 +3,6 @@
 # theme: jekyll-theme-merlot
 # theme: jekyll-theme-dinky
 theme: jekyll-theme-leap-day
+markdown: kramdown
+kramdown:
+    math_engine: katex
