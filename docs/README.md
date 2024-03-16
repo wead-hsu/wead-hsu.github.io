@@ -12,7 +12,8 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 # Blogs
 
-- [Introducing Neuro-symbolic Methods](posts/nesy.md) 
+- [Introducing Neuro-symbolic Methods](posts/nesy.md)
+- [Efficient Softmax](posts/softmax.md)
 
 # Publications
 
