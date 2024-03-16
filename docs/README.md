@@ -10,6 +10,10 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 - One paper is accepted by KDD 2023.
 - I won the second prize of Beijing Science and Technology Award.
 
+# Blogs
+
+- [Introducing Neuro-symbolic Methods](posts/nesy.md) 
+
 # Publications
 
 [ICLR 2024] [LogicMP: A Neuro-Symbolic Approach for Encoding First-order Logic Constraints](https://arxiv.org/abs/2309.15458). 
