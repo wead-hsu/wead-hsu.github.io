@@ -1,4 +1,4 @@
-![](figures/neuro-symbolic.png)
+![](neuro-symbolic.png)
 Fig. 1: Framework of popular neuro-symbolic methods.
 
 
