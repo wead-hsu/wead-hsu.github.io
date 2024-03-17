@@ -20,7 +20,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 - **Weidi Xu**, Jingwei Wang, Lele Xie, Jianshan He, Hongting Zhou, Taifeng Wang, Xiaopei Wan, Jingdong Chen, Chao Qu, Wei Chu.
 
-- [Slides](../assets/slides-LogicMP.pdf) / [Poster](../assets/poster-LogicMP.pdf)
+- [Slides](../assets/slides-LogicMP.pdf) / [Poster](../assets/poster-LogicMP.pdf) / [Code](https://github.com/wead-hsu/logicmp)
 
 
 
