@@ -26,6 +26,10 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 - [Slides](../assets/slides-LogicMP.pdf) / [Poster](../assets/poster-LogicMP.pdf) / [Code](https://github.com/wead-hsu/logicmp)
 
+[ICLR 2025 SCI-FM Workshop] [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://openreview.net/pdf?id=rmfHzHdxAQ)
+
+- Siming Huang, Tianhao Cheng, Jason Klein Liu, Jiaran Hao, Liuyihan Song, **Weidi Xu**, Ruifeng Yuan, Qian Liu, Yang Xu, Jian Yang, Jiaheng Liu, Chenchen Zhang, Linzheng Chai, Xianzhen Luo, Qiufeng Wang, Qingfu Zhu, Zhaoxiang Zhang, Yang Gao, Jie Fu, Ge Zhang.
+- [Access](https://opencoder-llm.github.io/)
 
 
 [KDD 2023] [Learning to Discover Various Simpson’s Paradoxes](https://dl.acm.org/doi/pdf/10.1145/3580305.3599859).
