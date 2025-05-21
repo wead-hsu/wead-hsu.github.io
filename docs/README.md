@@ -1,6 +1,6 @@
 I am a researcher with over 10 years of well-balanced experience in academia and industry. I am now with [Inf](https://www.infly.cn/), a startup company working on large language model solutions for industry applications. I received my Ph.D. degree from [Peking University](https://www.ai.pku.edu.cn/sztd/zzjyry1.htm), under the supervision of [Prof. Ying Tan](https://www.ai.pku.edu.cn/info/1284/1646.htm). Before that, I obtained my BS. from [South China University of Technology](https://www2.scut.edu.cn/sse/2018/0615/c16788a270753/page.htm). My current research mainly focuses on logical reasoning, especially neuro-symbolic methods. Previously, I mainly worked on learning latent variable models for NLP problems. We have some research intern positions available in Inf. If you are interested in LLM and logical reasoning, please contact me: wdxu@inftech.ai.
 
-徐威迪 / wead_hsu@163.com / [Scholar](https://scholar.google.com/citations?user=5YhrVbEAAAAJ&hl=en) / [Twitter](https://twitter.com/wead_hsu) / [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=weidi+xu)
+徐威迪 / wdxu@inftech.ai / [Scholar](https://scholar.google.com/citations?user=5YhrVbEAAAAJ&hl=en) / [Twitter](https://twitter.com/wead_hsu) / [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=weidi+xu)
 
 <!---
 ![photo](assets/me.jpeg)
@@ -8,6 +8,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 # News
 
+- Two papers are accepted by ACL 2025.
 - One paper is accepted by ICLR 2024 (first author).
 - One paper is accepted by KDD 2023.
 - I won the second prize of Beijing Science and Technology Award.
@@ -26,10 +27,21 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 - [Slides](../assets/slides-LogicMP.pdf) / [Poster](../assets/poster-LogicMP.pdf) / [Code](https://github.com/wead-hsu/logicmp)
 
+[ACL 2025] [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://openreview.net/forum?id=6nsW3bqugV)
+
+- Siming Huang, Tianhao Cheng, Jason Klein Liu, **Weidi Xu**, JIARAN HAO, Liuyihan Song, Yang Xu, Jian Yang, Jiaheng Liu, Chenchen Zhang, Linzheng Chai, Ruifeng Yuan, Xianzhen Luo, Qiufeng Wang, YuanTao Fan, Qingfu Zhu, Zhaoxiang Zhang, Yang Gao, Jie Fu, Qian Liu, Houyi Li, Ge Zhang, Yuan Qi, Xu Yinghui, Wei Chu, Zili Wang
+- [Access](https://opencoder-llm.github.io/)
+
+[ACL 2025 Findings] [Learning Autnomous Code Integration for Math Language Models](https://openreview.net/forum?id=NnF5kreIAa).
+
+- Haozhe Wang, Long Li, Chao Qu, **Weidi Xu**, Fengming ZHU, Wei Chu, Fangzhen Lin
+
+<!---
 [ICLR 2025 SCI-FM Workshop] [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://openreview.net/pdf?id=rmfHzHdxAQ)
 
 - Siming Huang, Tianhao Cheng, Jason Klein Liu, Jiaran Hao, Liuyihan Song, **Weidi Xu**, Ruifeng Yuan, Qian Liu, Yang Xu, Jian Yang, Jiaheng Liu, Chenchen Zhang, Linzheng Chai, Xianzhen Luo, Qiufeng Wang, Qingfu Zhu, Zhaoxiang Zhang, Yang Gao, Jie Fu, Ge Zhang.
 - [Access](https://opencoder-llm.github.io/)
+-->
 
 
 [KDD 2023] [Learning to Discover Various Simpson’s Paradoxes](https://dl.acm.org/doi/pdf/10.1145/3580305.3599859).
