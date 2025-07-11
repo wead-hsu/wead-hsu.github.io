@@ -8,6 +8,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 # News
 
+- One paper is accepted by ICCV 2025.
 - Two papers are accepted by ACL 2025.
 - One paper is accepted by ICLR 2024 (first author).
 - One paper is accepted by KDD 2023.
