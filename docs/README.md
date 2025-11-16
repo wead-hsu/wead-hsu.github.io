@@ -8,6 +8,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 # News
 
+- One paper is accepted by AAAI 2025.
 - One paper is accepted by ICCV 2025.
 - Two papers are accepted by ACL 2025.
 - One paper is accepted by ICLR 2024 (first author).
@@ -22,6 +23,10 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 # Publications
 
+[AAAI 2025] [Constraints-Guided Diffusion Reasoner for Neuro-Symbolic Learning](https://arxiv.org/abs/2508.16524).
+
+- Xuan Zhang, Zhijian Zhou, **Weidi Xu**, Yanting Miao, Chao Qu, Yuan Qi
+
 [ICLR 2024] [LogicMP: A Neuro-Symbolic Approach for Encoding First-order Logic Constraints](https://arxiv.org/abs/2309.15458). 
 
 - **Weidi Xu**, Jingwei Wang, Lele Xie, Jianshan He, Hongting Zhou, Taifeng Wang, Xiaopei Wan, Jingdong Chen, Chao Qu, Wei Chu.
@@ -35,7 +40,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 [ACL 2025 Findings] [Learning Autnomous Code Integration for Math Language Models](https://openreview.net/forum?id=NnF5kreIAa).
 
-- Haozhe Wang, Long Li, Chao Qu, **Weidi Xu**, Fengming ZHU, Wei Chu, Fangzhen Lin
+- Haozhe Wang, Long Li, Chao Qu, **Weidi Xu**, Fengming Zhu, Wei Chu, Fangzhen Lin
 
 <!---
 [ICLR 2025 SCI-FM Workshop] [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://openreview.net/pdf?id=rmfHzHdxAQ)
@@ -59,7 +64,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 [EMNLP 2020] [Question Directed Graph Attention Network for Numerical Reasoning over Text](https://arxiv.org/pdf/2009.07448.pdf).
 
-- Kunlong Chen, **Weidi Xu**, Xingyi Cheng, Zou Xiaochuan, Yuyu Zhang, Le Song†, Taifeng Wang, Yuan Qi, Wei Chu.
+- Kunlong Chen, **Weidi Xu**, Xingyi Cheng, Zou Xiaochuan, Yuyu Zhang, Le Song, Taifeng Wang, Yuan Qi, Wei Chu.
 - SOTA results on [DROP](https://leaderboard.allenai.org/drop/submissions/public), [outperforming GPT-4](https://arxiv.org/abs/2303.08774).
 
 [SIGIR 2020] [Symmetric Regularization based BERT for Pair-wise Semantic Reasoning](https://arxiv.org/pdf/1909.03405.pdf).
