@@ -8,6 +8,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 # News
 
+- Two papers are accepted by ACL 2026.
 - One paper is accepted by AAAI 2025.
 - One paper is accepted by ICCV 2025.
 - Two papers are accepted by ACL 2025.
@@ -22,6 +23,13 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 - [Backpropogate through Discrete Variables](posts/bpdiscrete.md)
 
 # Publications
+[ACL 2026] [Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning](https://openreview.net/pdf?id=ZC949sgtgD)
+
+- Shuyao Xu, Cheng Peng, Jiangxuan Long, **Weidi Xu** (corresponding author), Wei Chu, Yuan Qi
+
+[ACL 2026] [SQL-ASTRA: Alleviating Sparse Feedback in Agentic SQL via Column-Set Matching and Trajectory Aggregation](https://openreview.net/forum?id=aeCh6Ee55C)
+
+- Long Li, Zhijian Zhou, Jiangxuan Long, Peiyang Liu, **Weidi Xu**, Zhe Wang, Shirui Pan, Chao Qu 
 
 [AAAI 2025] [Constraints-Guided Diffusion Reasoner for Neuro-Symbolic Learning](https://arxiv.org/abs/2508.16524).
 
