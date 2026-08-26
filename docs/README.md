@@ -23,6 +23,9 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 - [Backpropogate through Discrete Variables](posts/bpdiscrete.md)
 
 # Publications
+[Arxiv] [Infinity-Parser2 Technical Report](https://arxiv.org/abs/2607.07836)
+- Zuming Huang, Jun Huang, Kexuan Ren, Baode Wang, Weizhen Li, Jianming Feng, Yu Wang, Yichen Yao, Shijun Lin, Yige Tang, Cheng Peng, **Weidi Xu**, Wei Chu, Yinghui Xu, Yuan Qi 
+
 [ACL 2026] [Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning](https://openreview.net/pdf?id=ZC949sgtgD)
 
 - Shuyao Xu, Cheng Peng, Jiangxuan Long, **Weidi Xu** (corresponding author), Wei Chu, Yuan Qi
