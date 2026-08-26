@@ -23,8 +23,6 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 - [Backpropogate through Discrete Variables](posts/bpdiscrete.md)
 
 # Publications
-[Arxiv] [Infinity-Parser2 Technical Report](https://arxiv.org/abs/2607.07836)
-- Zuming Huang, Jun Huang, Kexuan Ren, Baode Wang, Weizhen Li, Jianming Feng, Yu Wang, Yichen Yao, Shijun Lin, Yige Tang, Cheng Peng, **Weidi Xu**, Wei Chu, Yinghui Xu, Yuan Qi 
 
 [ACL 2026] [Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning](https://openreview.net/pdf?id=ZC949sgtgD)
 
@@ -32,7 +30,11 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 [ACL 2026] [SQL-ASTRA: Alleviating Sparse Feedback in Agentic SQL via Column-Set Matching and Trajectory Aggregation](https://openreview.net/forum?id=aeCh6Ee55C)
 
-- Long Li, Zhijian Zhou, Jiangxuan Long, Peiyang Liu, **Weidi Xu**, Zhe Wang, Shirui Pan, Chao Qu 
+- Long Li, Zhijian Zhou, Jiangxuan Long, Peiyang Liu, **Weidi Xu**, Zhe Wang, Shirui Pan, Chao Qu
+
+[Arxiv] [Infinity-Parser2 Technical Report](https://arxiv.org/abs/2607.07836)
+
+- Zuming Huang, Jun Huang, Kexuan Ren, Baode Wang, Weizhen Li, Jianming Feng, Yu Wang, Yichen Yao, Shijun Lin, Yige Tang, Cheng Peng, **Weidi Xu**, Wei Chu, Yinghui Xu, Yuan Qi 
 
 [AAAI 2025] [Constraints-Guided Diffusion Reasoner for Neuro-Symbolic Learning](https://arxiv.org/abs/2508.16524).
 
