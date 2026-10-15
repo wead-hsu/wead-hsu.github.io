@@ -8,7 +8,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 # News
 
-- One paper is accepted by Nieurps 2026.
+- One paper is accepted by Neurips 2026.
 - Two papers are accepted by ACL 2026.
 - One paper is accepted by AAAI 2025.
 - One paper is accepted by ICCV 2025.
@@ -25,7 +25,7 @@ I am a researcher with over 10 years of well-balanced experience in academia and
 
 # Publications
 
-[Nieurps 2026] [DyJR: Preserving Local Policy Plasticity in Reinforcement Learning with Verifiable Rewards via Dynamic Jensen-Shannon Replay](https://openreview.net/forum?id=0Go4KDhkDw#discussion)
+[Neurips 2026] [DyJR: Preserving Local Policy Plasticity in Reinforcement Learning with Verifiable Rewards via Dynamic Jensen-Shannon Replay](https://openreview.net/forum?id=0Go4KDhkDw#discussion)
 
 - Long Li, Zhijian Zhou, Tianyi Wang, **Weidi Xu**, Zuming Huang, Wei Chu, Zhe Wang, Shirui Pan, Chao Qu, Yuan Qi
 
